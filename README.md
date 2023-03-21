@@ -1,2 +1,20 @@
 # Parcel-Level-Flood-and-Drought-Detection-using-AI
-We implement NDVI and NDWI algorithms on Sentinel-2A, CART method on Sentinel-1 SAR GRD and PlacesCNN method on mobile images to detect flood and drought at a parcel-level
+We implement NDVI and NDWI algorithms on Sentinel-2A, CART method on Sentinel-1 SAR GRD and PlacesCNN method on mobile images to detect flood and drought at a parcel-level.
+
+Citation: 
+Bibtex format
+@article{thapa2022parcel,
+  title={Parcel-Level Flood and Drought Detection for Insurance Using Sentinel-2A, Sentinel-1 SAR GRD and Mobile Images},
+  author={Thapa, Aakash and Horanont, Teerayut and Neupane, Bipul},
+  journal={Remote Sensing},
+  volume={14},
+  number={23},
+  pages={6095},
+  year={2022},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+
+Thapa, A., Horanont, T., & Neupane, B. (2022). Parcel-Level Flood and Drought Detection for Insurance Using Sentinel-2A, Sentinel-1 SAR GRD and Mobile Images. Remote Sensing, 14(23), 6095.
+
+
+
