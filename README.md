@@ -17,5 +17,7 @@ Bibtex format
 
 Thapa, A., Horanont, T., & Neupane, B. (2022). Parcel-Level Flood and Drought Detection for Insurance Using Sentinel-2A, Sentinel-1 SAR GRD and Mobile Images. Remote Sensing, 14(23), 6095.
 
+![methodology](https://user-images.githubusercontent.com/86845326/226560388-18ed8cd6-d61e-4001-9c52-fbedd7bcea1a.png)
+
 
 
