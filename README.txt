@@ -3,6 +3,7 @@ We implement NDVI and NDWI algorithms on Sentinel-2A, CART method on Sentinel-1 
 
 Citation: 
 Bibtex format
+
 @article{thapa2022parcel,
   title={Parcel-Level Flood and Drought Detection for Insurance Using Sentinel-2A, Sentinel-1 SAR GRD and Mobile Images},
   author={Thapa, Aakash and Horanont, Teerayut and Neupane, Bipul},
