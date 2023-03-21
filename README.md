@@ -23,4 +23,5 @@ Thapa, A., Horanont, T., & Neupane, B. (2022). Parcel-Level Flood and Drought De
 ![methodology](https://user-images.githubusercontent.com/86845326/226560388-18ed8cd6-d61e-4001-9c52-fbedd7bcea1a.png)
 
 
+![Picture1](https://user-images.githubusercontent.com/86845326/226561441-b601e44a-f471-447f-b730-c299822441ec.png)
 
